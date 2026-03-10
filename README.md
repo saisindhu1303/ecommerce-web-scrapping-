@@ -82,7 +82,3 @@ Add logging
 Implement Selenium for dynamic content
 
 Schedule scraping jobs
-
-Disclaimer
-
-This project is intended for educational purposes only. Ensure compliance with the website’s terms of service and robots.txt before scraping.
